@@ -6,8 +6,6 @@ Welcome to the Voice-Powered Virtual Assistant, a Node.js project that brings vo
 
 - **Voice Recognition:** Simply speak your commands to trigger actions and interact with the virtual assistant.
 
-- **Wikipedia Search:** Ask for information from Wikipedia by just speaking your query.
-
 - **Open Websites:** Instruct the assistant to open websites like YouTube, Google, GitHub, Instagram, and more, hands-free.
 
 - **Greeting:** Receive a warm greeting from the assistant with a simple "hey assistant."
@@ -27,13 +25,13 @@ Before diving into this exciting voice-powered experience, ensure you have the f
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Arjun9234/Virtual-Assistant
+   git clone https://github.com/Arjun9234/assistant
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd virtual-assistant
+   cd assistant
    ```
 
 3. **Install Dependencies:**
@@ -48,35 +46,10 @@ Before diving into this exciting voice-powered experience, ensure you have the f
    npm start
    ```
 
-## Usage 🗣️
-
-- Open the project in your web browser.
-
-- Click the "Start Listening" button to activate voice recognition.
-
-- Clearly speak your command and patiently wait for the assistant's response.
-
-## Contributing 🤝
-
-Contributions are highly encouraged! If you'd like to contribute to this innovative project, follow these steps:
-
-1. **Fork the Project on GitHub.**
-
-2. **Create a New Branch:**
-
-   Create a new branch for your feature or bug fix.
-
-3. **Implement Your Changes:**
-
-   Make your contributions and submit a pull request.
-
-4. **Maintain Code Quality:**
-
-   Ensure that your code passes linting and tests.
-
-## Acknowledgments 🙏
+🙌 Acknowledgments
 
 - Special thanks to [OpenAI](https://openai.com/) for their Chat GPT integration.
-- Gratitude to the contributors of the libraries that power this project.
+- Appreciation to the contributors of libraries supporting this project.
+- Let’s innovate voice-controlled tech together! 🎤🤖
 
-Let's make voice-controlled technology even more exciting and accessible together! 🎙️🤖
+
